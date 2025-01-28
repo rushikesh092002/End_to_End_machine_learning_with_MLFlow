@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/asus/OneDrive/Desktop/End_to_End_machine_learning-_with_MLFlow/mlruns/0/3719debc94a04eea81f678a2d5856180/artifacts
+end_time: 1738078142154
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3719debc94a04eea81f678a2d5856180
+run_name: caring-perch-251
+run_uuid: 3719debc94a04eea81f678a2d5856180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738078135523
+status: 4
+tags: []
+user_id: asus
